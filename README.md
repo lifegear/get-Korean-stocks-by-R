@@ -1,2 +1,2 @@
-# getKOSDAQByR
-R samples getting chart data of KOSDAQ using google finance url
+# Read me
+R samples function for getting chart data of KOSDAQ using google finance url
