@@ -1,7 +1,7 @@
 #######################################################
 ###     Getting historical stock price data from google finance
 ###     Revised by lifegear@gmail.com, Jun 2017 
-###     Ref: http://blog.naver.com/PostView.nhn?blogId=lisist&logNo=220417131329 (Jun 2015 by lisist)
+###     Ref: http://blog.naver.com/lisist/220417131329 (Jun 2015 by lisist)
 #######################################################
 
 ### You need XML package to run this function
